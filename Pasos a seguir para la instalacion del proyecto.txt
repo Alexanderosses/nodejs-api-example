@@ -1,0 +1,17 @@
+REPOSITORIO DE CLASES
+https://github.com/orgs/UDDBootcamp/teams/dwfs/repositories
+
+Pasos a seguir para la creacion de un proyecto con Node
+
+1_ instalar NODE
+npm ini -y (Crea una instalacion basica de Node) 
+
+2_ instalar Express para la creacion de APIS
+npm install express
+
+3_ Instalar libreria Body_Parser (permite convertir las respuestas desde json a objetos js)
+npm install body-parser
+
+4_ instalar NODEMON
+npm install nodemon
+
